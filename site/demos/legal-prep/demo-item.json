@@ -1,7 +1,7 @@
 {
   "id": "demo-legal-prep",
   "file": "case-prep-chronology.docx",
-  "time": "Demo dataset",
+  "time": "Reference corpus",
   "status": "complete",
   "brief": "Binder draft highlights three key evidence anchors: a dated written promise, a contemporaneous call summary, and a later acknowledgment that obligations were not met. The clearest prep path is a concise chronology with exhibits attached to each disputed point.",
   "tags": ["timeline", "written-promise", "acknowledgment"],

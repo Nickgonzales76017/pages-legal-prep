@@ -1,56 +1,110 @@
 [
   {
-    "id": "demo-legal-prep-a",
-    "file": "case-prep-chronology.docx",
-    "time": "Reference corpus",
+    "id": "small-claims-hearing-expect",
+    "file": "Small Claims Hearing - What to Expect",
+    "time": "Public origin \u00b7 119s",
     "status": "complete",
-    "brief": "Binder draft highlights three key evidence anchors: a dated written promise, a contemporaneous call summary, and a later acknowledgment that obligations were not met. The clearest prep path is a concise chronology with exhibits attached to each disputed point.",
+    "brief": "She also reaches out to witnesses, people who saw what happened and can clearly explain the sequence of events. If the defendant appeals to the district court, he will have to pay a bond of $250 and the amount of any judgement awarded against him. To get an idea of what to expect in her own case, Lynn sits in on some small claims hearings. If a judge rules against Lynn, she can appeal to the district court.",
     "tags": [
-      "timeline",
-      "written-promise",
-      "acknowledgment"
+      "small-claims",
+      "legal",
+      "court",
+      "case-prep",
+      "evidence"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "timeline, witness notes, filing prep",
-    "whyItMatters": "One case input becomes a searchable prep record.",
-    "searchIntro": "One case input becomes a searchable prep record. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "sourceUrl": "https://www.youtube.com/watch?v=cEe5298bifw",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "Small Claims Hearing - What to Expect",
+    "publisher": "Legal Aid Center of Southern Nevada",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: Legal Aid Center of Southern Nevada on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Legal research becomes organized case prep \u2014 relevant precedents and procedures extracted and structured.",
+    "searchSummary": "small-claims, legal, court",
+    "searchIntro": "Search across the legal prep records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "case prep brief",
+      "clean transcript",
+      "proof bundle",
+      "search across cases"
+    ],
+    "outputNotes": {
+      "case prep brief": "Bonfyre extracted the key points from the source audio into a structured case prep brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/legal-prep/proofs/small-claims-hearing-expect/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/legal-prep/proofs/small-claims-hearing-expect/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/legal-prep/proofs/small-claims-hearing-expect/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/legal-prep/proofs/small-claims-hearing-expect"
   },
   {
-    "id": "demo-legal-prep-b",
-    "file": "Related case-prep-chronology.docx",
-    "time": "Reference corpus",
+    "id": "small-claims-what-to-know",
+    "file": "What you need to know before you file a case in small claims court",
+    "time": "Public origin \u00b7 195s",
     "status": "complete",
-    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "You may have to engage the service of a private process server, which can be $50 or it can be $200. More damages could also be beyond the $5,000 small claims threshold. Molly Beth Billington, Miami-Dade County's consumer advocate. Every hand you would totally change my mind, I thought it would be something a little bit easier.",
     "tags": [
-      "timeline",
-      "written-promise",
-      "related"
+      "small-claims",
+      "legal",
+      "court",
+      "case-prep",
+      "evidence"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One case input becomes a searchable prep record.",
-    "searchIntro": "One case input becomes a searchable prep record. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
-  },
-  {
-    "id": "demo-legal-prep-c",
-    "file": "Follow-up case-prep-chronology.docx",
-    "time": "Reference corpus",
-    "status": "complete",
-    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
-    "tags": [
-      "timeline",
-      "written-promise",
-      "follow-up"
+    "sourceUrl": "https://www.youtube.com/watch?v=O-3SeBE8Mfc",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "What you need to know before you file a case in small claims court",
+    "publisher": "WPLG Local 10",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: WPLG Local 10 on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Legal research becomes organized case prep \u2014 relevant precedents and procedures extracted and structured.",
+    "searchSummary": "small-claims, legal, court",
+    "searchIntro": "Search across the legal prep records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "case prep brief",
+      "clean transcript",
+      "proof bundle",
+      "search across cases"
     ],
-    "flagged": false,
-    "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One case input becomes a searchable prep record.",
-    "searchIntro": "One case input becomes a searchable prep record. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "outputNotes": {
+      "case prep brief": "Bonfyre extracted the key points from the source audio into a structured case prep brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/legal-prep/proofs/small-claims-what-to-know/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/legal-prep/proofs/small-claims-what-to-know/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/legal-prep/proofs/small-claims-what-to-know/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/legal-prep/proofs/small-claims-what-to-know"
   }
 ]

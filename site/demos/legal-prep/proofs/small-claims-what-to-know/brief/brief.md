@@ -1,0 +1,26 @@
+# What you need to know before you file a case in small claims court
+
+## Summary
+- You may have to engage the service of a private process server, which can be $50 or it can be $200.
+- More damages could also be beyond the $5,000 small claims threshold.
+- Molly Beth Billington, Miami-Dade County's consumer advocate.
+- Every hand you would totally change my mind, I thought it would be something a little bit easier.
+- There are a lot of times you know an individual, you or I, we may know that we were wronged somehow.
+- These clinics are held every few weeks in a different part of the county, all of them, for free.
+
+## Action Items
+- There are ways to see if the company or entity you plan to sue has outstanding or unpaid judgments,  which means the odds of you recouping your damages may be low, something else to consider.
+- We literally go through the process from start to finish, how do you formulate legal claims?
+- You should also weight the benefits, versus costs.
+- Com, including when and where the next free info sessions will be.
+- To make sure you know everything you need to know before filing a small claims case.
+- If you have a problem, you want to leave to larrant, send an email to larrant@local10.
+
+## Deep Summary
+- There are ways to see if the company or entity you plan to sue has outstanding or unpaid judgments,  which means the odds of you recouping your damages may be low, something else to consider.
+- We literally go through the process from start to finish, how do you formulate legal claims?
+- You should also weight the benefits, versus costs.
+- Com, including when and where the next free info sessions will be.
+
+## Transcript
+I'll see you in court, well it's actually easier said than done in many cases. Today's leave it to layering shows you how to do it right and to even win. E-mails, phone calls, non-return calls, all these other things, really. What can we do? One option, tell it to the judge, but it's all about how you tell it. You're going to do what you're going to do and when. Molly Beth Billington, Miami-Dade County's consumer advocate. And supervisor of the county's consumer protection office. When they're not here she and staffers become roving adjuncts of small claims court jurisprudence. We literally go through the process from start to finish, how do you formulate legal claims? What are free resources to get this information? They're going to ask you everything. And small claims class is in session. There are a lot of times you know an individual, you or I, we may know that we were wronged somehow. But you have to be able to articulate that. These clinics are held every few weeks in a different part of the county, all of them, for free. We caught this one in Homestead. We can come, we can sit for an hour, we can ask questions, we can talk. To make sure you know everything you need to know before filing a small claims case. Every hand you would totally change my mind, I thought it would be something a little bit easier. First things first. You got to do your research before you go and file on it. Billington says something as simple as a name could make or break your case. If you're safe filing an action against a business, you have to have the complete legal entity name, if you ever want to collect. And make sure you have the evidence to back up your claim. It's each and every receipt, if you sign something, people copy of it, document what you've expended. Document who you gave it to, document what the agreement was. You should also weight the benefits, versus costs. Made me think is it really worth going to small claims? Filing fees can go up to $300. You may have to engage the service of a private process server, which can be $50 or it can be $200. More damages could also be beyond the $5,000 small claims threshold. Maybe a claim is $10,000. Maybe it's really $15,000. So maybe you really should get an attorney and go to county or sugar court. The more you do to prepare, the better chance you have of convincing the judge, yes, I am right. It was well worth it. It's always good to learn more. That would have taken me so long to research what I just found out. We have to deal with these things. It's unfortunate, but that's the way it goes. I would recommend this for sure to anyone. And you could take your case to court and when, but winning and collecting on that judgment are two completely different things. There are ways to see if the company or entity you plan to sue has outstanding or unpaid judgments,  which means the odds of you recouping your damages may be low, something else to consider. We've got all that information at local10. Com, including when and where the next free info sessions will be. The county says organizations or groups can also request a presentation. Court is adjourned. Thank you, larrant, for holding court. If you have a problem, you want to leave to larrant, send an email to larrant@local10. com. That is spelled L-A-Y-R-O-N at local10. com.

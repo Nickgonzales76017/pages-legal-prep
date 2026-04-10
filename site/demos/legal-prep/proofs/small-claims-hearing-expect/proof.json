@@ -1,0 +1,17 @@
+{
+  "title": "Small Claims Hearing - What to Expect",
+  "public_url": "https://www.youtube.com/watch?v=cEe5298bifw",
+  "source": {
+    "title": "Small Claims Hearing - What to Expect",
+    "channel": "Legal Aid Center of Southern Nevada",
+    "duration_seconds": 119
+  },
+  "transcribe": {
+    "avg_confidence": 0.941,
+    "avg_logprob": -0.5,
+    "rtf": 0.0395,
+    "segments_total": 21,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

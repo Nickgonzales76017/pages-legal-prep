@@ -1,0 +1,17 @@
+{
+  "title": "Follow-up case-prep-chronology.docx",
+  "public_url": "",
+  "source": {
+    "title": "Follow-up case-prep-chronology.docx",
+    "channel": "Reference corpus",
+    "duration_seconds": 286
+  },
+  "transcribe": {
+    "avg_confidence": 0.8013,
+    "avg_logprob": -0.64,
+    "rtf": 0.0356,
+    "segments_total": 7,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

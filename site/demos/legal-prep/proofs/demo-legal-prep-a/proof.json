@@ -1,0 +1,17 @@
+{
+  "title": "case-prep-chronology.docx",
+  "public_url": "",
+  "source": {
+    "title": "case-prep-chronology.docx",
+    "channel": "Reference corpus",
+    "duration_seconds": 261
+  },
+  "transcribe": {
+    "avg_confidence": 0.842,
+    "avg_logprob": -0.485,
+    "rtf": 0.0434,
+    "segments_total": 25,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

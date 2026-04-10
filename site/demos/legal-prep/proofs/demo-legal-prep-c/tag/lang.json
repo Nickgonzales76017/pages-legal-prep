@@ -1,0 +1,20 @@
+{
+  "type": "language-detection",
+  "languages": [
+    {
+      "language": "en",
+      "confidence": 0.9751,
+      "votes": 6
+    },
+    {
+      "language": "es",
+      "confidence": 0.0041,
+      "votes": 4
+    }
+  ],
+  "tags": [
+    "timeline",
+    "written-promise",
+    "follow-up"
+  ]
+}
